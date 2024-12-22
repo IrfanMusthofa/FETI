@@ -1,4 +1,4 @@
-# *Phishing URL Detection by FETI Group*
+# *Phishing URL Detector by FETI Group*
 # IF3070 Foundations of Artificial Intelligence | Tugas Besar 2
 
 ## **Group Information**
